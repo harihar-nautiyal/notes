@@ -31,7 +31,7 @@ An **algorithm** is like a set of step-by-step instructions that guide you throu
 
 ## Resources for Learning More:
 
-- [GeeksforGeeks Markdown Introduction](https://www.geeksforgeeks.org/introduction-to-markdown/): Learn more about Markdown and its syntax.
+- [Introduction to alorihms and flowcharts](https://www.toppr.com/guides/computer-science/programming-methodology/problem-solving-methodologies/introduction-to-algorithms-and-flowcharts/): Learn more about Markdown and its syntax.
 - [iD Tech: Algorithms for Kids](https://www.idtech.com/blog/algorithms-for-kids): Explore real-world examples and benefits of algorithms.
 
 Remember, algorithms are like secret recipes that make our digital world work smoothly! 🌟
