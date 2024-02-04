@@ -6,7 +6,7 @@
 
 <li>
 
- [What is algorithim](./whatisalgorithim.md)
+ [What is algorithim](whatisalgorithim.md)
 </li>
 <li>
 
