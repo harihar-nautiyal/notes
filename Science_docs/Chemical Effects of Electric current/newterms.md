@@ -10,7 +10,7 @@
 
 
 Example of electrolysis in water
-![Electrolysis in water]([image-1.png](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/image-1.png))
+![Electrolysis in water](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/image-1.png)
 
 
 <h3>Electroplating: </h3> The procss of causing a chemical chain reaction through the application material by means of electricity
