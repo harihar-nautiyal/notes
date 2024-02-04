@@ -4,7 +4,7 @@ Hello! My name is Harihar Nautiyal and I'm in Class 8. This repository contains 
 
 ## Subjects
 
-1. [Click for Science](./Science_docs/README.md)
+1. [Click for Science](/Science_docs/README.md)
 2. [Click for Maths](./Maths_docs/README.md)
 3. [Click for English](./English_docs/README.md)
 4. [Click for Hindi](./Hindi_docs/README.md)
