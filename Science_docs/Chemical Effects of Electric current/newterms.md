@@ -3,7 +3,7 @@
 <h3>Insulator: </h3> A material that does not allows electric current to pass through it <br>
 <br>
 
-![The example of conductor and insulator](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/)
+![The example of conductor and insulator](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/image.png)
 
 <h3>Electrolysis: </h3> The process of causing chemical reaction through the application of electric current.
 
