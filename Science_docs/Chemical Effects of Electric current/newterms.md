@@ -3,7 +3,7 @@
 <h3>Insulator: </h3> A material that does not allows electric current to pass through it <br>
 <br>
 
-![The example of conductor and insulator](image.png)
+![The example of conductor and insulator](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/)
 
 <h3>Electrolysis: </h3> The process of causing chemical reaction through the application of electric current.
 
@@ -15,7 +15,7 @@ Example of electrolysis in water
 
 <h3>Electroplating: </h3> The procss of causing a chemical chain reaction through the application material by means of electricity
 
-![Copper Plating](image-2.png)
+![Copper Plating](https://raw.githubusercontent.com/HariharNautiyal2/notes/main/Science_docs/Chemical%20Effects%20of%20Electric%20current/image-2.png)
 
 <h3>Tester: </h3> A device used to check the presence of electric current
 
