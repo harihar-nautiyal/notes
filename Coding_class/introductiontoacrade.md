@@ -1,23 +1,11 @@
 # Introduction to MakeCode Arcade
 
 **MakeCode Arcade** is an exciting platform that empowers you to create your own video games. Whether you're a beginner or an experienced coder, you'll find it fun and engaging. Let's dive in!
-<ul>
-  <li>
-    
-  [ Click for website](https://arcade.makecode.com/)
-    
-  </li>
-  <li>
-    
-  [ Click for App (Android) ](https://play.google.com/store/apps/details?id=org.gtmaker.makecode&hl=en&gl=US)
-    
-  </li>
-  <li>
 
-   [ Click for pc offline app](https://arcade.makecode.com/offline-app)
+1. [ Click for website](https://arcade.makecode.com/)
+2. [ Click for App (Android) ](https://play.google.com/store/apps/details?id=org.gtmaker.makecode&hl=en&gl=US)
+3. [ Click for pc offline app](https://arcade.makecode.com/offline-app)
     
-  </li>
-</ul>
 
 ## What Is MakeCode Arcade?
 
