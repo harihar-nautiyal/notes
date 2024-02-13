@@ -3,13 +3,12 @@
 
 ## All Content
 <ol>
-
 <li>
 
  [What is algorithim](whatisalgorithim.md)
 </li>
 <li>
-
+ 
 [What are flowcharts](./whatareflowcharts.md)
 </li>
 <li>What are flowcharts</li>
