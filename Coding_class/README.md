@@ -7,5 +7,5 @@
 1. [What is algorithim](whatisalgorithim.md)
 2. [What are flowcharts](./whatareflowcharts.md)
 3. [Introduction to MS Makecode arcade](./introductiontoacrade.md)
-4. Some programs in flowchart
-5. Making Program in MS Editor
+4. [Introduction to blocks](./introductiontoblocks.md)
+6. Making Program in MS Editor
