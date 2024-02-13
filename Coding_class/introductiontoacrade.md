@@ -28,5 +28,5 @@ MakeCode Arcade provides two ways to code:
 Remember, this curriculum encourages project-based learning, and students spend approximately 75% of their time building projects and practicing the skills they learn. Have fun exploring the world of game development with MakeCode Arcade! 🎮
 
 <li>
-  [Introduction to blocks](./introductiontoblocks.md)
+  [Introduction to blocks](https://arcade.makecode.com/tutorials/intro)
 </li>
