@@ -4,12 +4,15 @@
 ## All Content
 <ol>
 <li>
-
- [What is algorithim](whatisalgorithim.md)
+<span>
+ 
+   [What is algorithim](whatisalgorithim.md)
+</span>
 </li>
 <li>
  
 [What are flowcharts](./whatareflowcharts.md)
+
 </li>
 <li>What are flowcharts</li>
 <li>Some programs in flowchart</li>
