@@ -1,3 +1,13 @@
+---
+keywords:
+    - Search Engines
+    - Better SEO
+    - Get found online
+seo_title: Harihar Class 8th notes
+seo_description: Getting found online means organic traffic.
+title: The title can be in Front Matter (optional) or first-level headline (default)
+---
+
 # Harihar's Class 8 Notes
 
 Hello! My name is Harihar Nautiyal and I'm in Class 8. This repository contains my notes for various subjects. I've created this to help my friends and anyone else who might find it useful. Feel free to explore!
