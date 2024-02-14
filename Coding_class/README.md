@@ -1,5 +1,6 @@
 # Skill course : coding
- This is all we learned in skill course provided by school
+
+This is all we learned in skill course provided by school
 
 ## All Content
 
