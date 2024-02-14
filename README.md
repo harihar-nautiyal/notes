@@ -1,7 +1,4 @@
----
-seo_title: Learn JavaScript in a week
-seo_description: Everything you need to know to get started with JavaScript quickly
----
+
 
 # Harihar's Class 8 Notes
 
