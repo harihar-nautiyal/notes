@@ -1,12 +1,6 @@
-
 ---
-keywords:
-    - Search Engines
-    - Better SEO
-    - Get found online
-seo_title: Harihar Class 8th notes
-seo_description: Getting found online means organic traffic.
-title: The title can be in Front Matter (optional) or first-level headline (default)
+seo_title: Learn JavaScript in a week
+seo_description: Everything you need to know to get started with JavaScript quickly
 ---
 
 # Harihar's Class 8 Notes
