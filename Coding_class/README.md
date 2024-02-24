@@ -9,6 +9,6 @@ This is all we learned in skill course provided by school
 2. [What are flowcharts](./whatareflowcharts.md)
 3. [Introduction to MS Makecode arcade](./introductiontoacrade.md)
 4. [Introduction to blocks](https://arcade.makecode.com/tutorials/intro)
-
+5. [Some games (They are also interesting)](somegames.md)
 
 Content is been updated for a while
