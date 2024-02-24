@@ -22,7 +22,7 @@ This is a remake of the classic Pac-Man game where you have to eat all the dots 
 
 ![Pac-Man]
 
-Coming soon this file is not completed huh i will see it after exam
+Coming soon... this file is not completed huh i will see it after exam
 
 ![KabanguUpsetGIF](https://github.com/HariharNautiyal2/notes/assets/134691036/c899d7d8-27c9-48f1-bbbb-e59f0d153a93)
 
