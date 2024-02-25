@@ -111,3 +111,7 @@ Yes if solution is same and nope if answer is different
 | Division    | $$ \frac{5}{6} \div \frac{2}{3} = \frac{5}{4} $$ | No                  |
 | Division    | $$ \frac{2}{3} \div \frac{5}{6} = \frac{4}{5} $$  |                   |
 
+**10/2009 bis 04/2013 | Bergische Universität Wuppertal**
+$^3/_7$
+$\binom{n}{k}$
+$\frac{n!}{k!(n-k)!}$
