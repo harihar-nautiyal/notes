@@ -3,7 +3,6 @@
 Solutions for Class 8 Sanskrit Chapter 11 सावित्री बाई फुले
 but in hinglish
 
-## Exercise 1
 ### Question 1
 **(क) कीदृशीनां कुरीतीनां सावित्री मुखर विरोधम् अकरोत्?** <br>
 Hinglish: Savitri ne kaunsi kuritiyon ke virudh mukhar virodh kiya?
