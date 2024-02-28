@@ -1,4 +1,4 @@
-# Savitari bai
+# Savitari bai with hinglish translation
 
 Solutions for Class 8 Sanskrit Chapter 11 सावित्री बाई फुले
 but in hinglish
