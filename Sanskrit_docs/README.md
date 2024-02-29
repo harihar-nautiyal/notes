@@ -2,7 +2,7 @@
 
 - [Click for chapter 11 savitari bai](./savitaribai.md)
 - [Click for chapter 14 Aryabhatta](./aryabhata.md)
-- [Coming soon]
+- [Click for chapter 10 Neetinavneetam](./neetinavneetam.md)
 - [Coming soon]
 - [Coming soon]
 
