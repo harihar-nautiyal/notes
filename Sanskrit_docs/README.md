@@ -1,6 +1,10 @@
 # Welcome to Sanskrit Blogs!
 
-1. [Link to chapter 11 savitari bai](./savitaribai.md)
+- [Click for chapter 11 savitari bai](./savitaribai.md)
+- [Click for chapter 14 Aryabhatta](./aryabhata.md)
+- [Coming soon]
+- [Coming soon]
+- [Coming soon]
 
 ## About
 This repository contains a collection of blogs and exercises translated from Sanskrit textbooks into Hinglish (a blend of Hindi and English). These resources are aimed at helping students understand Sanskrit concepts and exercises in a more accessible language.
