@@ -4,7 +4,7 @@ Get in hitler's server and study with us
 
 link -> 
 
-- [Go to hitler's discord server](https://discord.gg/M66smXvQ)
+- [Go to hitler's discord server](https://discord.gg/jW7csReB)
 
 Members ->
 
