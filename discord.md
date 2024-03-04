@@ -1,6 +1,6 @@
-# Join Hitler's study server
+# Join Final study server
 
-Get in hitler's server and study with us 
+Get in final server and study with us 
 
 link -> 
 
@@ -12,5 +12,11 @@ Members ->
 - Atulya Tiwari (Hitler)
 - Google bot
 - Chat gpt (Teacher)
+- Akshat Khati
+- Rahul cobrabandel
 
 these names are derived from **nazi gas chamber group** if you you to see you name here dm me  
+
+Meet you in server
+
+![RiyadGIF](https://github.com/HariharNautiyal2/notes/assets/134691036/13fbb686-35aa-4ef6-9a4d-0c10163492e9)
